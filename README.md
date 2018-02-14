@@ -8,7 +8,7 @@ virtualenv deskenv
 source deskenv/bin/activate
 ```
 
-Edit lines 7 and 9 of `client.py` to contain the correct `LND_PORT` for your node, and the correct `PATH_TO_TLS_CERT` for the path to your tls.cert file. 
+Next, **edit lines 7 and 9** of `client.py` to contain the correct `LND_PORT` for your node, and the correct `PATH_TO_TLS_CERT` for the path to your tls.cert file. 
 
 Install the dependencies required for Python gRPC:
 
