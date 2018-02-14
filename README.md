@@ -3,6 +3,8 @@
 Litstream is meant to be an example of what online video monetization would look like with lightning network + streaming payments. The website is hosted at 
 http://ec2-52-53-90-150.us-west-1.compute.amazonaws.com/ and clients are required to be running a server connected to their lnd node in order to watch videos. 
 
+*NOTE:* requires a payment path between your node and 03a2102f6978b9e5c6a2dd39697f95b36a7992a60ca65e0316dcd517108e8da171@52.53.90.150:9735 so you may need to create a channel on your end.
+
 # Installation
 Before beginning, ensure that you are running Python 2.7 and that you have pip and virtualenv installed.
 
