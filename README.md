@@ -5,7 +5,7 @@ http://ec2-52-53-90-150.us-west-1.compute.amazonaws.com/ and clients are require
 
 *NOTE:* requires a payment path between your node and 03a2102f6978b9e5c6a2dd39697f95b36a7992a60ca65e0316dcd517108e8da171@52.53.90.150:9735 so you may need to create a channel on your end.
 
-*NOTE 2:*: lnd node must be running with macaroons disabled, soz! 
+*NOTE 2:* lnd node must be running with macaroons disabled, soz! 
 
 # Installation
 Before beginning, ensure that you are running Python 2.7 and that you have pip and virtualenv installed.
