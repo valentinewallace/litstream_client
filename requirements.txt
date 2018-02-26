@@ -1,0 +1,5 @@
+grpcio
+grpcio-tools
+googleapis-common-protos
+flask
+flask-cors
